@@ -34,8 +34,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at vestibulum n
 
 To create a new visualization, follow these steps:
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at vestibulum nulla, ac tincidunt sem. Morbi in nisl at nisl feugiat faucibus sed eu neque. 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at vestibulum nulla, ac tincidunt sem. Morbi in nisl at nisl feugiat faucibus sed eu neque. 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at vestibulum nulla, ac tincidunt sem. Morbi in nisl at nisl feugiat faucibus sed eu neque. 
+
+## CLIP URL (Result)
+https://www.datawrapper.de/_/kQI21/
 
 ## CREDITS & LICENSE
 - Idea by: [INSTITUTION](https://climate.esa.int/)
