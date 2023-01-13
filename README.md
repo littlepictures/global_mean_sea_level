@@ -25,8 +25,8 @@ Work in Progress
 https://www.datawrapper.de/_/kQI21/
 
 ## CREDITS & LICENSE
-- Idea by: [INSTITUTION](https://climate.esa.int/)
-- Processing Scripts by: [INSTITUTION](https://climate.esa.int/)
-- Visualization by: [INSTITUTION](https://climate.esa.int/)
+- Idea by: [Philipp Eales](http://www.planetaryvisions.com/index.php)
+- Processing Scripts by: [Brockmann Consult](https://www.brockmann-consult.de/)
+- Visualization by: [Ubilabs](https://ubilabs.com/de)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
