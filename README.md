@@ -1,9 +1,4 @@
-# CLIP #02 - We live in a world of rising seas <img style="float: right;" src="https://raw.githubusercontent.com/trevalabs/.github/main/logos/trevelabs_logo.png" width="180">
-<hr>
-
-## TrevaLabs
- 
-[TrevaLabs](https://www.TrevaLabs.com) is a collective of climate data visualisation creatives in Europe, brought together by the desire to make a big impact with little pictures. Its mission is to rapidly create little pictures of climate for maximal human impact, and the vision is to reach every European by the end of decade with a little picture on Climate.
+# CLIP - We live in a world of rising seas 
 
 ## Background on this CLIP
 
