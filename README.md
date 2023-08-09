@@ -1,8 +1,15 @@
-# CLIP - We live in a world of rising seas 
+# little picture - global mean sea level
 
-## Background on this CLIP
+## Background on this little picture
 
-Sea level rise is one of the best known and already most visible signs of climate change in many regions of the world. For this reason, the "classic curve" of the rise is presented in this CLIP. In contrast to other representations, however, a classification is to be made here along comments. These can be explanations of the curve itself (as currently shown), dates of climate conferences or other temporal classifications.
+Sea level rise is one of the clearest indicators of climate change and
+puts millions living in coastal zone under threat of inundation. For this
+reason, the &quot;classic curve&quot; of the rise is presented in this Little Picture.
+Global mean sea level has been increasing 3.2mm over the satellite
+altimetry record. The Copernicus Sentinel-6 mission is extending sea-
+surface height measurements until at least 2030.
+
+https://climate.esa.int/en/little-pictures-gallery/Global-mean-sea-level/
 
 ## Data Sources
 
