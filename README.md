@@ -1,6 +1,7 @@
 # little picture - global mean sea level
 
 ## Background on this little picture
+_a Little Picture reveals the global mean sea level trend_
 
 Sea level rise is one of the clearest indicators of climate change and
 puts millions living in coastal zone under threat of inundation. For this
