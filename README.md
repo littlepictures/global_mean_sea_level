@@ -61,12 +61,8 @@ git pull --rebase
 Note you can also use the JupyterLab's **Git** extension (left side bar) to update the repos.
 
 
-## Creating Visualizations
-[STEP BY STEP DESCRIPTION ON WHAT THE DATA PROCESSING PROCESS. SHOULD BEGIN WITH A SHORT SUMMARY OF THE OVERALL PROCESS]
+## Creating Visualisations
 Work in Progress
-
-## CLIP URL (Result)
-https://www.datawrapper.de/_/kQI21/
 
 ## CREDITS & LICENSE
 - Idea by: [Philipp Eales](http://www.planetaryvisions.com/index.php)
