@@ -67,6 +67,6 @@ Work in Progress
 ## CREDITS & LICENSE
 - Idea by: [Philipp Eales](http://www.planetaryvisions.com/index.php)
 - Processing Scripts by: [Brockmann Consult](https://www.brockmann-consult.de/)
-- Visualization by: [Ubilabs](https://ubilabs.com/de)
+- Visualisation by: [Ubilabs](https://ubilabs.com/de)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
